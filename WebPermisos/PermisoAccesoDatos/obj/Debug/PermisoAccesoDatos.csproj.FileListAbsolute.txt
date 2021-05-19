@@ -9,3 +9,4 @@ C:\Users\egrullard\Documents\Visual Studio 2017\Projects\WebPermisos\PermisoAcce
 C:\Users\egrullard\Documents\Visual Studio 2017\Projects\WebPermisos\PermisoAccesoDatos\obj\Debug\PermisoAccesoDatos.csproj.CopyComplete
 C:\Users\egrullard\Documents\Visual Studio 2017\Projects\WebPermisos\PermisoAccesoDatos\obj\Debug\PermisoAccesoDatos.dll
 C:\Users\egrullard\Documents\Visual Studio 2017\Projects\WebPermisos\PermisoAccesoDatos\obj\Debug\PermisoAccesoDatos.pdb
+C:\Users\egrullard\Documents\Visual Studio 2017\Projects\WebPermisos\PermisoAccesoDatos\obj\Debug\PermisoAccesoDatos.csprojAssemblyReference.cache

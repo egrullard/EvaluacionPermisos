@@ -8,7 +8,7 @@
     public partial class ApplicationContextDB : DbContext
     {
         public ApplicationContextDB()
-            : base("Poner tu conexion")
+            : base("")
         {
         }
 
