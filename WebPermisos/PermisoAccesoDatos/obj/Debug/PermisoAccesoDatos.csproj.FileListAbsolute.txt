@@ -1,0 +1,11 @@
+C:\Users\egrullard\Documents\Visual Studio 2017\Projects\WebPermisos\PermisoAccesoDatos\bin\Debug\PermisoAccesoDatos.dll.config
+C:\Users\egrullard\Documents\Visual Studio 2017\Projects\WebPermisos\PermisoAccesoDatos\bin\Debug\PermisoAccesoDatos.dll
+C:\Users\egrullard\Documents\Visual Studio 2017\Projects\WebPermisos\PermisoAccesoDatos\bin\Debug\PermisoAccesoDatos.pdb
+C:\Users\egrullard\Documents\Visual Studio 2017\Projects\WebPermisos\PermisoAccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\egrullard\Documents\Visual Studio 2017\Projects\WebPermisos\PermisoAccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\egrullard\Documents\Visual Studio 2017\Projects\WebPermisos\PermisoAccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\egrullard\Documents\Visual Studio 2017\Projects\WebPermisos\PermisoAccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\egrullard\Documents\Visual Studio 2017\Projects\WebPermisos\PermisoAccesoDatos\obj\Debug\PermisoAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\egrullard\Documents\Visual Studio 2017\Projects\WebPermisos\PermisoAccesoDatos\obj\Debug\PermisoAccesoDatos.csproj.CopyComplete
+C:\Users\egrullard\Documents\Visual Studio 2017\Projects\WebPermisos\PermisoAccesoDatos\obj\Debug\PermisoAccesoDatos.dll
+C:\Users\egrullard\Documents\Visual Studio 2017\Projects\WebPermisos\PermisoAccesoDatos\obj\Debug\PermisoAccesoDatos.pdb
